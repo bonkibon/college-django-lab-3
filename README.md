@@ -1,1 +1,1 @@
-# https-github.com-bonkibon-college-django-lab-3.1
+# college-django-lab-3
